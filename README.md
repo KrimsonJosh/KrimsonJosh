@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KrimsonJosh
-- 👀 I’m interested in collaborative fullstack projects!
-- 🌱 I’m currently learning databases, and backend web development!
+- 👀 I’m interested in collaboration!
+- 🌱 I’m currently backend web development!
 - 💞️ I’m looking to collaborate on web development projects.
-- 📫 How to reach me linkedin.com/in/joshua-moinzadeh
+- 📫 How to reach me joshuamoinzadeh@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Play me on chess! IMTheRapidGod
 
