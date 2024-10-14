@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KrimsonJosh
 - 👀 I’m interested in collaboration!
-- 🌱 I’m currently backend web development!
+- 🌱 I’m currently learning backend web development!
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me joshuamoinzadeh@gmail.com
 - 😄 Pronouns: He/Him
