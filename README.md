@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KrimsonJosh
-- 👀 I’m interested in collaboration!
-- 🌱 I’m currently working on portfolio, python learning, and network scanner
+- 👀 I’m interested in Software Engineering!
 - 💞️ I’m looking to collaborate on web development projects.
-- 📫 How to reach me joshuamoinzadeh@gmail.com
+- 📫 How to reach me joshuamoinzadeh@gmail.com, 8179752705.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Play me on chess! IMTheRapidGod
 
