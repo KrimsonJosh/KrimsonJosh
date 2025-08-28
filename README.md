@@ -4,6 +4,6 @@ Python, Typescript
 
 - 📧 [Email me](mailto:joshuamoinzadeh@gmail.com)
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/joshua-moinzadeh/)
-- 🖥️ [Website](https://joshuamoinzadeh.com)
+- 🖥️ [Instagram](https://www.instagram.com/krimsonjosh/)
 
 
