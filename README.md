@@ -1,4 +1,6 @@
-I'm Joshua, a freshman at UT Dallas majoring in computer science.
+I'm Joshua Moinzadeh, a Sophmore at UT Dallas majoring in computer science.
+
+Previously interned @ Google Core
 
 Python, Typescript, C++
 
